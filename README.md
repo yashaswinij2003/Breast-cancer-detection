@@ -2,7 +2,7 @@
 Breast Cancer Detection Using CNN 
 ** Overview
 This project implements a diagnostic support system using deep learning techniques to analyze mammographic images.
-It classifies images into normal, benign, or malignant categories and offers a desktop-based prediction interface built with Tkinter. 
+It classifies images into benign or malignant categories and offers a desktop-based prediction interface built with Tkinter. 
 The tool supports early cancer detection and helps reduce subjectivity in manual diagnosis.
 
 ** Features
